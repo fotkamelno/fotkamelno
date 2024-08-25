@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi There! 👋
+
+[![roadmap.sh](https://roadmap.sh/card/wide/64c2b6c46f9261e7b432c14b?variant=dark)](https://roadmap.sh)
 
 <!--
 **fotkamelno/fotkamelno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
